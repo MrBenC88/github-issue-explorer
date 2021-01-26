@@ -1,4 +1,4 @@
-# GitHub Issues Explorer
+# GitHub Issue Explorer
 ![Main page](https://i.imgur.com/njpnLzy.png)
 
 A web application that enables users to search for issues found in public repositories simply by copy pasting the repository url!
