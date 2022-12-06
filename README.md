@@ -5,7 +5,7 @@ A web application that enables users to search for issues found in public reposi
 
 
 ## Demo
-https://github-issue-explorer.herokuapp.com/
+https://github-issue-explorer.onrender.com/
 
 ## Steps to run in dev environment:
 
